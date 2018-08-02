@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Cree par    : Jean COLLOMB
-Societe     : CT1 - groupe Compose
-Laboratoire : SYMME - Polytech Annecy-Chambéry - Université Savoie Mont Blanc
 Date        : janvier 2017
 
 Ce programme a pour objectif d'estimer les proprietes mecaniques
